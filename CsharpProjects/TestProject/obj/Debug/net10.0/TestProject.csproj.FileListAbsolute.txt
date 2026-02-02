@@ -1,0 +1,15 @@
+/Users/evanjung/Projects/CsharpProjects/CsharpProjects/TestProject/bin/Debug/net10.0/TestProject
+/Users/evanjung/Projects/CsharpProjects/CsharpProjects/TestProject/bin/Debug/net10.0/TestProject.deps.json
+/Users/evanjung/Projects/CsharpProjects/CsharpProjects/TestProject/bin/Debug/net10.0/TestProject.runtimeconfig.json
+/Users/evanjung/Projects/CsharpProjects/CsharpProjects/TestProject/bin/Debug/net10.0/TestProject.dll
+/Users/evanjung/Projects/CsharpProjects/CsharpProjects/TestProject/bin/Debug/net10.0/TestProject.pdb
+/Users/evanjung/Projects/CsharpProjects/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evanjung/Projects/CsharpProjects/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfoInputs.cache
+/Users/evanjung/Projects/CsharpProjects/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfo.cs
+/Users/evanjung/Projects/CsharpProjects/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/evanjung/Projects/CsharpProjects/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.sourcelink.json
+/Users/evanjung/Projects/CsharpProjects/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.dll
+/Users/evanjung/Projects/CsharpProjects/CsharpProjects/TestProject/obj/Debug/net10.0/refint/TestProject.dll
+/Users/evanjung/Projects/CsharpProjects/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.pdb
+/Users/evanjung/Projects/CsharpProjects/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.genruntimeconfig.cache
+/Users/evanjung/Projects/CsharpProjects/CsharpProjects/TestProject/obj/Debug/net10.0/ref/TestProject.dll
