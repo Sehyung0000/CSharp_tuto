@@ -1,0 +1,15 @@
+/Users/evanjung/Projects/CsharpProjects/Module4/Unit5/bin/Debug/net10.0/Unit5
+/Users/evanjung/Projects/CsharpProjects/Module4/Unit5/bin/Debug/net10.0/Unit5.deps.json
+/Users/evanjung/Projects/CsharpProjects/Module4/Unit5/bin/Debug/net10.0/Unit5.runtimeconfig.json
+/Users/evanjung/Projects/CsharpProjects/Module4/Unit5/bin/Debug/net10.0/Unit5.dll
+/Users/evanjung/Projects/CsharpProjects/Module4/Unit5/bin/Debug/net10.0/Unit5.pdb
+/Users/evanjung/Projects/CsharpProjects/Module4/Unit5/obj/Debug/net10.0/Unit5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evanjung/Projects/CsharpProjects/Module4/Unit5/obj/Debug/net10.0/Unit5.AssemblyInfoInputs.cache
+/Users/evanjung/Projects/CsharpProjects/Module4/Unit5/obj/Debug/net10.0/Unit5.AssemblyInfo.cs
+/Users/evanjung/Projects/CsharpProjects/Module4/Unit5/obj/Debug/net10.0/Unit5.csproj.CoreCompileInputs.cache
+/Users/evanjung/Projects/CsharpProjects/Module4/Unit5/obj/Debug/net10.0/Unit5.sourcelink.json
+/Users/evanjung/Projects/CsharpProjects/Module4/Unit5/obj/Debug/net10.0/Unit5.dll
+/Users/evanjung/Projects/CsharpProjects/Module4/Unit5/obj/Debug/net10.0/refint/Unit5.dll
+/Users/evanjung/Projects/CsharpProjects/Module4/Unit5/obj/Debug/net10.0/Unit5.pdb
+/Users/evanjung/Projects/CsharpProjects/Module4/Unit5/obj/Debug/net10.0/Unit5.genruntimeconfig.cache
+/Users/evanjung/Projects/CsharpProjects/Module4/Unit5/obj/Debug/net10.0/ref/Unit5.dll
