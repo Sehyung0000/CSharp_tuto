@@ -1,0 +1,15 @@
+/Users/evanjung/Projects/CsharpProjects/Module3/Unit4/bin/Debug/net10.0/Unit4
+/Users/evanjung/Projects/CsharpProjects/Module3/Unit4/bin/Debug/net10.0/Unit4.deps.json
+/Users/evanjung/Projects/CsharpProjects/Module3/Unit4/bin/Debug/net10.0/Unit4.runtimeconfig.json
+/Users/evanjung/Projects/CsharpProjects/Module3/Unit4/bin/Debug/net10.0/Unit4.dll
+/Users/evanjung/Projects/CsharpProjects/Module3/Unit4/bin/Debug/net10.0/Unit4.pdb
+/Users/evanjung/Projects/CsharpProjects/Module3/Unit4/obj/Debug/net10.0/Unit4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evanjung/Projects/CsharpProjects/Module3/Unit4/obj/Debug/net10.0/Unit4.AssemblyInfoInputs.cache
+/Users/evanjung/Projects/CsharpProjects/Module3/Unit4/obj/Debug/net10.0/Unit4.AssemblyInfo.cs
+/Users/evanjung/Projects/CsharpProjects/Module3/Unit4/obj/Debug/net10.0/Unit4.csproj.CoreCompileInputs.cache
+/Users/evanjung/Projects/CsharpProjects/Module3/Unit4/obj/Debug/net10.0/Unit4.sourcelink.json
+/Users/evanjung/Projects/CsharpProjects/Module3/Unit4/obj/Debug/net10.0/Unit4.dll
+/Users/evanjung/Projects/CsharpProjects/Module3/Unit4/obj/Debug/net10.0/refint/Unit4.dll
+/Users/evanjung/Projects/CsharpProjects/Module3/Unit4/obj/Debug/net10.0/Unit4.pdb
+/Users/evanjung/Projects/CsharpProjects/Module3/Unit4/obj/Debug/net10.0/Unit4.genruntimeconfig.cache
+/Users/evanjung/Projects/CsharpProjects/Module3/Unit4/obj/Debug/net10.0/ref/Unit4.dll
