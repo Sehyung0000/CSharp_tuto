@@ -16,9 +16,15 @@ namespace NumberGuess
             int b = Convert.ToInt32(Console.ReadLine());
 
             Random random = new Random();
+            if (a > b)
+            {
+                int temp = a;
+                a = b;
+                b = temp;
+            }
             int answer = random.Next(a, b + 1);
 
-            Console.WriteLine($"\nGuess a number between {a} and {b}!");
+            Console.WriteLine($"\nGuess a number between {a} and {b}");
             Console.WriteLine();
 
             int guess;
